@@ -1,4 +1,4 @@
-# Running server in 5 minutes 
+# Running server in 5 minutes :zap:
 
 ## Create the project 💥
 
